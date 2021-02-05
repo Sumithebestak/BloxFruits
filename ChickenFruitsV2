@@ -1,7 +1,7 @@
 _G.WaitTime = 100 -- Time to wait before serverhop in seconds if autoeat not enabled
 _G.AutoEat = true --AutoEat the fruit set it _G.Fruit | true/false
 _G.url = 'YourWebHookHere'
-_G.Fruit = "Flame Fruit" -- Fruit you want to eat
+_G.Fruit = "Flame Fruit" -- Fruit you want to eat ex "Flame Fruit" "Dragon Fruit" etc.
 --[[
 Chicken Fruits V3 made by Brave TheRealChicken#5230
 ]]
